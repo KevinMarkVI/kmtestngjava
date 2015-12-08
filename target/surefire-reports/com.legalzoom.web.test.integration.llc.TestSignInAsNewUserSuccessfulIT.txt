@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.legalzoom.web.test.integration.llc.TestSignInAsNewUserSuccessfulIT
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.892 sec - in com.legalzoom.web.test.integration.llc.TestSignInAsNewUserSuccessfulIT

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="20" verbose="0" name="Failed suite [Surefire suite]" parallel="methods">
+  <test name="Surefire test(failed)" parallel="methods">
+    <classes>
+      <class name="com.legalzoom.web.test.integration.llc.TestSignInAsNewUserSuccessfulIT">
+        <methods>
+          <include name="test_SignIn_As_New_User_Should_Successful" invocation-numbers="0"/>
+          <include name="setUsername"/>
+        </methods>
+      </class> <!-- com.legalzoom.web.test.integration.llc.TestSignInAsNewUserSuccessfulIT -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
